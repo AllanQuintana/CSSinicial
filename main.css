@@ -2,29 +2,6 @@ body {
     background-color: #eee;
 }
 
-a {
-    color: hotpink;
-    background-color:#f00;
-    padding: 15px;
+ span {
+    display: block;
 }
-
-a:link {
-    color: pink;
-    text-decoration: none;
-}
-
-a:visited {
-    color: blue;
-}
-
-a:hover {
-    color:  blue;
-    background-color: #f55;
-
-}
-
-
-a:active {
-    color: black;
-}
-
