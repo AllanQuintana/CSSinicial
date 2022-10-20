@@ -2,6 +2,6 @@ body {
     background-color: #eee;
 }
 
- span {
-    display: block;
+p {
+    max-width: 350px;
 }
